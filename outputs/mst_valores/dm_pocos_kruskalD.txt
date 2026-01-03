@@ -1,0 +1,2 @@
+dm_pocos KruskalD
+TOTAL_MST = 1029.0

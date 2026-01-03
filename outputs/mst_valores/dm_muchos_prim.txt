@@ -1,0 +1,2 @@
+dm_muchos Prim
+TOTAL_MST = 15236.0

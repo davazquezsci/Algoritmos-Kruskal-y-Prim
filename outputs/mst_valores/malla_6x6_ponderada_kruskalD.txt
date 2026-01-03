@@ -1,0 +1,2 @@
+malla_6x6_ponderada KruskalD
+TOTAL_MST = 265.0

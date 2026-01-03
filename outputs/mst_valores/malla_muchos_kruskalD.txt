@@ -1,0 +1,2 @@
+malla_muchos KruskalD
+TOTAL_MST = 14353.0

@@ -1,0 +1,2 @@
+erdos_muchos KruskalD
+TOTAL_MST = 7974.0

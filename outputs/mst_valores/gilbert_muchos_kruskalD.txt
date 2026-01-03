@@ -1,0 +1,2 @@
+gilbert_muchos KruskalD
+TOTAL_MST = 5974.0

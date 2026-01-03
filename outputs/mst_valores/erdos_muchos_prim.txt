@@ -1,0 +1,2 @@
+erdos_muchos Prim
+TOTAL_MST = 7974.0

@@ -1,0 +1,2 @@
+geo_pocos KruskalI
+TOTAL_MST = 3224.0

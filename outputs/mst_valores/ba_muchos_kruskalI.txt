@@ -1,0 +1,2 @@
+ba_muchos KruskalI
+TOTAL_MST = 11134.0

@@ -1,0 +1,2 @@
+geo_pocos Prim
+TOTAL_MST = 92.0

@@ -1,0 +1,2 @@
+gilbert_muchos Prim
+TOTAL_MST = 5974.0

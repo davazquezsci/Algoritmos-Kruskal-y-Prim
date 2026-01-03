@@ -1,0 +1,2 @@
+ba_pocos Prim
+TOTAL_MST = 587.0

@@ -1,0 +1,2 @@
+erdos_pocos KruskalI
+TOTAL_MST = 992.0

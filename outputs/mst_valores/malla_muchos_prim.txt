@@ -1,0 +1,2 @@
+malla_muchos Prim
+TOTAL_MST = 14353.0
